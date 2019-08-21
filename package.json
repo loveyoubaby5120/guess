@@ -1,0 +1,32 @@
+{
+    "name": "wechaty",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "wechaty": "^0.26.1",
+        "wechaty-puppet-padpro": "^0.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "10.12.0",
+        "babel-cli": "^6.26.0",
+        "babel-core": "6.25.0",
+        "babel-eslint": "6.0.3",
+        "babel-polyfill": "6.23.0",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-es2015": "6.24.1",
+        "babel-preset-stage-0": "6.24.1",
+        "babel-plugin-transform-es3-member-expression-literals": "^6.22.0",
+        "babel-plugin-transform-runtime": "6.23.0",
+        "babel-register": "^6.26.0",
+        "babel-runtime": "6.9.2",
+        "es-checker": "^1.4.2",
+        "eslint": "5.7.0",
+        "eslint-plugin-react": "7.11.1"
+    }
+}
